@@ -8,7 +8,7 @@ A personal commitment to sharpen my DSA skills with daily problem-solving and co
 ## 💪🏻 How I'm Working
 
 - Minimum one problem per day 🧠  
-- Platforms: Youtube, Leetcode, Hackerrank.
+- Platforms: Youtube, Leetcode, Hackerrank and          https://cplusplus.com/doc/tutorial/variables/ ---> for c++ docs
 - Clean code with comments 💬  
 - Learn, revise, and reflect 🔁  
 - Weekly summaries to track progress 📈

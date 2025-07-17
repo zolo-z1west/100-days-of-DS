@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-    cout <<"umang"<<"\n"<<"sharma";
+    cout <<"umang"<<endl<<"sharma";
     return 0;
 }
